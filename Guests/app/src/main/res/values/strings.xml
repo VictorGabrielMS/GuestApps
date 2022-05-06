@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Guests</string>
+    <string name="label_guest">guest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- ACTIONS -->
+    <string name="action_save">save</string>
+    <string name="action_success">success</string>
+    <string name="action_error">error</string>
+    <string name="action_settings">settings</string>
+    <string name="action_cancel">cancel</string>
+    <string name="action_remove">remove</string>
+    <string name="action_add">add</string>
+
+    <!-- MENU -->
+    <string name="menu_header_desc">Navigation header</string>
+    <string name="menu_header_title">Guests Menu</string>
+    <string name="menu_header_subtitle">an app to see guest</string>
+    <string name="menu_all_guests">All Guests</string>
+    <string name="menu_present_guests">Present Guests</string>
+    <string name="menu_absent_guests">Absent Guests</string>
+
+    <!-- Guest Form -->
+    <string name="label_name">Name</string>
+    <string name="hint_name">input your name....</string>
+    <string name="label_guest_type">Guest Type</string>
+    <string name="label_guest_type_present">Present</string>
+    <string name="label_guest_type_absent">Absent</string>
+    <string name="label_remove_guest">Remove Guest</string>
+    <string name="desc_remove_guest">Do you really want to remove the guest?</string>
+
+
+</resources>
