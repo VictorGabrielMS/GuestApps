@@ -4,4 +4,4 @@
 - Guest with Room - [Guests](./GuestsRoom/)
 
 ## :memo: License
-This project is under MIT LICENSE. for more details follow the link: [LICENSE](LICENSE).
+This project is under MIT LICENSE. for more details follow the link: [LICENSE](License).
