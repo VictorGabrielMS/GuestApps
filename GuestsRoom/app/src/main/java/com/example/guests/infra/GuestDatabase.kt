@@ -8,7 +8,7 @@ import com.example.guests.core.Constants
 import com.example.guests.modules.guest.dao.GuestDAO
 import com.example.guests.modules.guest.models.GuestModel
 
-@Database(entities = [GuestModel::class], version = 1)
+@Database(entities = [GuestModel::class], version = 1, exportSchema = false)
 abstract class GuestDatabase : RoomDatabase() {
     companion object {
         private lateinit var INSTANCE: GuestDatabase
